@@ -1,7 +1,7 @@
 # Minha solução para o Desafio 3 - Maratona Full Cycle
 
 ```
-docker run -p8081:8081 dearrudam/maratona-fullcycle-desafio3
+docker run -p 8080:8080 dearrudam/maratona-fullcycle-desafio3
 ```
 
 ## Descrição do desafio:
